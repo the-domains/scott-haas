@@ -1,0 +1,28 @@
+name: Scott Haas
+favicon: null
+layout_spectrum: 0.9808538353536278
+typography_spectrum: 0.27082833857275546
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.11805459321476519
+  lightness: 0.05685084639117122
+  saturation: 0.6517781538423151
+  rhythmicContrast: 0.6978889512829483
+purpose: []
